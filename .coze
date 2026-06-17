@@ -1,6 +1,6 @@
 [skill]
   skill_package = "tech-review-questioner.skill"
   name = "tech-review-questioner"
-  description = "模拟系统性追问风格，对技术方案生成大量Review问题；当需要对新编写的技术方案进行深度追问、质疑评审或模拟答辩时使用"
+  description = "深度分析技术方案，生成追问并给出优化答案；帮助撰写让领导满意的技术方案，从容应对各种追问"
   project_name = "领导提问技能"
-  project_description = "技术方案深度追问生成器"
+  project_description = "技术方案评审与优化助手"
