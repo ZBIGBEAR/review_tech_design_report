@@ -1,6 +1,6 @@
 [skill]
   skill_package = "tech-review-questioner.skill"
   name = "tech-review-questioner"
-  description = "深度分析技术方案，生成追问并给出优化答案；多维度评分0-100分，帮助撰写让领导满意的技术方案"
+  description = "多维度评分+深度追问+答案优化；帮助撰写让领导满意的技术方案"
   project_name = "领导提问技能"
-  project_description = "技术方案评分与优化助手"
+  project_description = "技术方案评审优化助手"
